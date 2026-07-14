@@ -15,5 +15,6 @@ void main() {
   Book book2 = Book("Flutter Guide", "Somsri", 420.0);
 
   book1.showDetail();
+  
   book2.showDetail();
 }
